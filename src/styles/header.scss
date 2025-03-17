@@ -1,0 +1,29 @@
+.header-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #001529;
+    color: white;
+    padding: 0 16px;
+    height: 64px;
+  }
+  
+  .menu-btn {
+    font-size: 18px;
+    color: white;
+  }
+  
+  .header-title a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  .dark-mode-btn {
+    background: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
